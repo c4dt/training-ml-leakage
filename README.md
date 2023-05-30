@@ -22,6 +22,12 @@ and is split in the following parts:
 - [Measurements](./3.1-reference-metric.ipynb)
 - [Protection](./3.2-reference-metric-diffpriv.ipynb)
 
+## Training slides
+
+You can find the slides from the training here:
+
+[ML leakage metrics](https://docs.google.com/presentation/d/1IU24olmIlSEu5GdmkTRQHd2UMYzXmuLN3F4evNaZOfw/edit)
+
 ## Dependencies
 
 It has been tried using python 3.10.9 on a Mac/arm64 and on a docker image.
