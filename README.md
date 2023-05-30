@@ -1,18 +1,23 @@
 # Training ML leakage
 
 This is the repo for the hands-on part of the ML leakage course organized by C4DT in
-collaboration with Carmela Troncoso and Bogdan Kulynych.
+collaboration with Carmela Troncoso and Bogdan Kulynych from the [SPRING](https://spring.epfl.ch) Lab.
 The training comes after a presentation from Carmela Troncoso on leakage in ML
 and is split in the following parts:
 
+0. Leading data and baseline measurements
+
+- [Loading](./ml_load_data.ipynb)
+
 1. Measure population-wise privacy leakage
+
+- [Measurements](./1-population-metric.ipynb)
+- [Protection](./1-population-metric-diffpriv.ipynb)
+
 2. Measure true privacy leakage
 
-The jupyter notebooks are the following:
-
-- [Original from Bogdan](./c4dt_privacy.ipynb)
-- [Starting to use DiffPrivLib](./c4dt_privacy-secureit.ipynb)
-- [Trying to get ml_privacy_meter to work](./c4dt_privacy-meter.ipynb)
+- [Measurements](./2-reference-metric.ipynb)
+- [Protection](./2-reference-metric-diffpriv.ipynb)
 
 ## Development
 
