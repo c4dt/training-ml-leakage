@@ -2,6 +2,16 @@
 
 This is the repo for the hands-on part of the ML leakage course organized by C4DT in
 collaboration with Carmela Troncoso and Bogdan Kulynych from the [SPRING](https://spring.epfl.ch) Lab.
+
+## Slides
+
+Here are the slides for the training:
+
+- [Presentation from prof. Carmela Troncoso](./Carmela_Troncoso-ML_Leakage.pdf)
+- [Introduction from Linus Gasser](Linus_Gasser-handson_training.pdf)
+
+## Training
+
 The training comes after a presentation from Carmela Troncoso on leakage in ML
 and is split in the following parts:
 
